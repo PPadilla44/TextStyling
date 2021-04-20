@@ -1,0 +1,25 @@
+*{
+    font-family: cursive;
+}
+h1 {
+    font-weight: bold;
+    background-color: black;
+}
+.my {
+    color: white;
+}
+.cloud {
+    color: cyan;
+}
+h2 {
+    background-color: darkorchid;
+    color: white;
+    text-align: center;
+}
+h3 {
+    text-decoration: underline;
+    background-color: rgb(51, 192, 235);
+    color: rebeccapurple;
+    text-align: right;
+    text-decoration: underline;
+}
